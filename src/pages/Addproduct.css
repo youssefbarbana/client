@@ -1,0 +1,27 @@
+.con {
+  margin-top: 150px;
+  margin-left: 20%;
+}
+.add {
+  display: flex;
+  align-items: center;
+  height: 70px;
+  width: 80%;
+}
+.add input {
+  height: 50px;
+  width: 80%;
+  font-size: 20px;
+}
+.added textarea {
+  width: 80%;
+  height: 100px;
+  background-color: rgb(223, 219, 219);
+  border: none;
+  font-size: 20px;
+}
+.added {
+  display: flex;
+  height: 100px;
+  width: 80%;
+}
